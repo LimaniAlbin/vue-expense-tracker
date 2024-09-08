@@ -16,4 +16,4 @@ npm run dev
 ```
 
 ### Project Image
-![An Image of the project](https://github.com/[LimaniAlbin]/[vue-expense-tracker]/blob/[main]/vue-expense-tracker.png?raw=true)
+![img.png](img.png)
